@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3033,
+  "public": "../public/",
+  "auth": {
+    "secret": "vGRJJoij12o3=sPS4oi1j23oij1FSm5+2rpWoi2j3oij12o3nkasdka=sjdho15td6j2aoijdoij12oi3j1oindasdasd",
+    "facebook": {
+      "clientID": "<your client id>",
+      "clientSecret": "<your client secret>",
+      "scope": ["public_profile","email"]
+    }
+  }
+}
